@@ -31,3 +31,5 @@ print("{:.2f}".format(dist))
 ![output](./exp1c.png)
 
 ### RESULT:
+ the program is executed successfullu.
+ 
